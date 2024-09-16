@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/master/profile.gif)]
 
 ### Languages
 
