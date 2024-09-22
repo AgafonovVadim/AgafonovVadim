@@ -11,6 +11,8 @@
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
+
 
 
 ### Technologies
@@ -19,7 +21,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 
 
 
