@@ -26,7 +26,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&theme=default&hide_border=false&size_weight=1&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&theme=default&hide_border=false&size_weight=1&exclude=ITMOEducation&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AgafonovVadim&icon=0&color=0)](https://visitcount.itsvg.in)
