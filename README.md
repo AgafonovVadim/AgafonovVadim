@@ -13,6 +13,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust) (In progress...)
+
 
 
 ### Technologies
