@@ -34,4 +34,4 @@
 [![](https://visitcount.itsvg.in/api?id=AgafonovVadim&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Style practice. Will be removed
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=plastic)
