@@ -26,9 +26,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&text_color=FFFFFF&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=codestackr&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=codestackr&hide_border=true)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&text_color=FFFFFF&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)</br>
 
 
 ---
