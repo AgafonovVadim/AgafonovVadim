@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![](https://yqxhsl.csb.app)](https://github.com/AgafonovVadim)
+[![](https://yqxhsl.csb.app/#)](https://github.com/AgafonovVadim)
 
 ### Languages
 
