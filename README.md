@@ -10,7 +10,7 @@
 ![Prolog](https://img.shields.io/badge/-Prolog-000?&logo=Prolog)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=0165АС)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML)
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust) (In progress...)
@@ -19,7 +19,7 @@
 
 ### Technologies
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=0165АС)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
