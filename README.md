@@ -10,6 +10,7 @@
 ![Prolog](https://img.shields.io/badge/-Prolog-000?&logo=Prolog&color=ff6700)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure&color=ff6700)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C&color=ff6700)
+![C#](https://img.shields.io/badge/-C#-000?&logo=c%2b%2b&logoColor=00599C&color=ff6700)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=7ABDFF&color=ff6700)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML&color=ff6700)
 
