@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/develop/profile.gif)](https://github.com/AgafonovVadim)
+[![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/master/profile.gif)](https://github.com/AgafonovVadim)
 
 ### Languages
 
