@@ -2,12 +2,12 @@
 
 [![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/master/profile.gif)](https://github.com/AgafonovVadim)
 
-### 🌟 About
+## 🌟 About
 🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.</br>
 💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.</br>
 📈 With a background in multiple programming languages and tools, I embrace every opportunity to challenge myself and learn from the experience.</br>
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=ff6700)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=ff6700)
@@ -23,7 +23,7 @@
 
 
 
-### ⚙ Technologies
+## ⚙ Technologies
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=7ABDFF&color=ff6700)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=ff6700)
@@ -45,7 +45,7 @@
    A machine learning model to predict classic car prices using regression techniques.  
    - **Tech**: Python, pandas, scikit-learn.  
 
-
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=codestackr&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&text_color=FFFFFF&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)</br>
