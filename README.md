@@ -33,15 +33,15 @@
 
 ## 📚 Current Projects
 
-1. [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance)  
+1. [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) 🚗
    Website for a car tuning studio with performance optimization.  
    - **Tech**: HTML, CSS, JavaScript.  
 
-2. [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
+2. [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  🏦
    Designed a UML-based system for managing banking credit operations.  
    - **Tech**: UML.  
 
-3. [**Car Value Predictor**](https://github.com/AgafonovVadim/Car-Value-Predictor)  
+3. [**Car Value Predictor**](https://github.com/AgafonovVadim/Car-Value-Predictor)  📈
    A machine learning model to predict classic car prices using regression techniques.  
    - **Tech**: Python, pandas, scikit-learn.  
 
