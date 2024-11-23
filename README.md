@@ -3,9 +3,9 @@
 [![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/master/profile.gif)](https://github.com/AgafonovVadim)
 
 ### 🌟 About
-🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.
-💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.
-📈 With a background in multiple programming languages and tools, I embrace every opportunity to challenge myself and learn from the experience.
+🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.</br>
+💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.</br>
+📈 With a background in multiple programming languages and tools, I embrace every opportunity to challenge myself and learn from the experience.</br>
 
 ### 👨‍💻 Languages
 
@@ -45,18 +45,16 @@
    A machine learning model to predict classic car prices using regression techniques.  
    - **Tech**: Python, pandas, scikit-learn.  
 
----
 
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=codestackr&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgafonovVadim&text_color=FFFFFF&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)</br>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=AgafonovVadim&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 📫 Let's Connect
 - Telegram: [@vadim_itmo](https://t.me/vadim_itmo)
 - LinkedIn: [@vadim-agafonov](https://www.linkedin.com/in/vadim-agafonov)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=AgafonovVadim&icon=0&color=0)](https://visitcount.itsvg.in)
