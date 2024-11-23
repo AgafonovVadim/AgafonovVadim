@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hi, I'm Vadim Agafonov 👋
 
 [![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/master/profile.gif)](https://github.com/AgafonovVadim)
 
-### Languages
+### 🌟 About
+🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.
+💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.
+📈 With a background in multiple programming languages and tools, I embrace every opportunity to challenge myself and learn from the experience.
+
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=ff6700)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=ff6700)
@@ -18,7 +23,7 @@
 
 
 
-### Technologies
+### ⚙ Technologies
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=7ABDFF&color=ff6700)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=ff6700)
@@ -26,6 +31,21 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=ff6700)
 
 
+## 📚 Current Projects
+
+1. [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance)  
+   Website for a car tuning studio with performance optimization.  
+   - **Tech**: HTML, CSS, JavaScript.  
+
+2. [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
+   Designed a UML-based system for managing banking credit operations.  
+   - **Tech**: UML.  
+
+3. [**Car Value Predictor**](https://github.com/AgafonovVadim/Car-Value-Predictor)  
+   A machine learning model to predict classic car prices using regression techniques.  
+   - **Tech**: Python, pandas, scikit-learn.  
+
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgafonovVadim&theme=codestackr&hide_border=true)</br>
@@ -34,3 +54,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AgafonovVadim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 📫 Let's Connect
+- Telegram: [@vadim_itmo](https://t.me/vadim_itmo)
+- LinkedIn: [@vadim-agafonov](https://www.linkedin.com/in/vadim-agafonov)
