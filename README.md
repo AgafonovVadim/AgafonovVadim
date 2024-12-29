@@ -41,9 +41,9 @@
    Designed a UML-based system for managing banking credit operations.  
    - **Tech**: UML.  
 
-3. 📈 [**Car Value Predictor**](https://github.com/AgafonovVadim/Car-Value-Predictor)  
-   A machine learning model to predict classic car prices using regression techniques.  
-   - **Tech**: Python, pandas, scikit-learn.  
+3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Car-Value-Predictor)  
+   A deep learning model to classify review sentiments.  
+   - **Tech**: Python, pandas, scikit-learn, tensorflow.  
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)
