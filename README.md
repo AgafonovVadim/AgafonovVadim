@@ -39,7 +39,7 @@
    Designed a UML-based system for managing banking credit operations.  
    - **Tech**: UML.  
 
-3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Car-Value-Predictor)  
+3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
    A deep learning model to classify review sentiments.  
    - **Tech**: Python, pandas, scikit-learn, tensorflow.  
 
