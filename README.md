@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=codestackr&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true)</br>
+![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=codestackr&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true)
 
 
 ## 📫 Let's Connect
