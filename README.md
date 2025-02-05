@@ -1,7 +1,5 @@
 ## Hi, I'm Vadim Agafonov 👋
 
-[![](https://raw.githubusercontent.com/AgafonovVadim/AgafonovVadim/develop/profile.gif)](https://github.com/AgafonovVadim)
-
 ## 🌟 About
 🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.</br>
 💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.</br>
