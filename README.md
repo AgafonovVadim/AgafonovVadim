@@ -9,7 +9,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&color=ff6700) 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&color=ff6700)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396&color=ff6700)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&color=ff6700)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=ff6700)
 ![Prolog](https://img.shields.io/badge/-Prolog-000?&logo=Prolog&color=ff6700)
 ![Clojure](https://img.shields.io/badge/-Clojure-000?&logo=Clojure&color=ff6700)
