@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=telegram&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true&card_height=196&card_width=400&hide_current_streak=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=telegram&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true&card_height=196&card_width=350&hide_current_streak=true)
 
 
 ## 📫 Let's Connect
