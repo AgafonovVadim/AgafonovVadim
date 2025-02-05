@@ -1,5 +1,3 @@
-## Hi, I'm Vadim Agafonov 👋
-
 ## 🌟 About
 🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.</br>
 💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.</br>
@@ -44,8 +42,8 @@
    - **Tech**: Python, pandas, scikit-learn, tensorflow.  
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&text_color=FF652F&bg_color=09131B&title_color=FFFFFF&icon_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=codestackr&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true&card_height=196&card_width=400)
+![](https://github-readme-stats.vercel.app/api?username=AgafonovVadim&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=AgafonovVadim&theme=telegram&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000&hide_border=true&card_height=196&card_width=400&hide_current_streak=true)
 
 
 ## 📫 Let's Connect
