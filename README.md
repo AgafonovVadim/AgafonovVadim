@@ -31,7 +31,7 @@
 
 1. 🚗 [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) 
    Website for a car tuning studio with performance optimization.  
-   - **Tech**: HTML, CSS, JavaScript.  
+   - **Tech**: HTML, CSS, JavaScript, NodeJS, Handlebars.  
 
 2. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
    Designed a UML-based system for managing banking credit operations.  
