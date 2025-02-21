@@ -35,7 +35,7 @@
 
 2. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
    Designed a UML-based system for managing banking credit operations.  
-   - **Tech**: UML.  
+   - **Tech**: UML, LaTeX.
 
 3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
    A deep learning model to classify review sentiments.  
