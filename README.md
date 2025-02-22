@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C&color=229ED9)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=sharp&color=229ED9&logoColor=000)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&color=229ED9)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex&color=229ED9)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4A154B&color=229ED9)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML&color=229ED9)
 
