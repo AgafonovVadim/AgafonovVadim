@@ -29,15 +29,15 @@
 
 ## 📚 Current Projects
 
-1. 🚗 [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) 
+1. 🚗 [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) </br>
    Website for a car tuning studio with performance optimization.  
    - **Tech**: HTML, CSS, JavaScript, NodeJS, Handlebars.  
 
-2. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
+3. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
    Designed a UML-based system for managing banking credit operations.  
    - **Tech**: UML, LaTeX.
 
-3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
+4. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
    A deep learning model to classify review sentiments.  
    - **Tech**: Python, pandas, scikit-learn, tensorflow.  
 
