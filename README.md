@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C&color=229ED9)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=sharp&color=229ED9&logoColor=000)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&color=229ED9)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex&color=229ED9)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4A154B&color=229ED9)
 ![UML](https://img.shields.io/badge/-UML-000?&logo=UML&color=229ED9)
 
@@ -22,6 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4A154B&color=229ED9)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=229ED9&logoColor=4A154B)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=229ED9)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeDotJS&color=229ED9)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=229ED9)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot&color=229ED9)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity&color=229ED9)
@@ -29,15 +31,15 @@
 
 ## 📚 Current Projects
 
-1. 🚗 [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) 
+1. 🚗 [**Navigator Performance Website**](https://github.com/AgafonovVadim/Navigator-Performance) </br>
    Website for a car tuning studio with performance optimization.  
-   - **Tech**: HTML, CSS, JavaScript.  
+   - **Tech**: HTML, CSS, JavaScript, NodeJS, Handlebars.  
 
-2. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
+3. 🏦 [**Bank Credit Department System**](https://github.com/AgafonovVadim/Bank-Credit-Department)  
    Designed a UML-based system for managing banking credit operations.  
-   - **Tech**: UML.  
+   - **Tech**: UML, LaTeX.
 
-3. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
+4. 💌 [**Sentiment Deep Learning Model**](https://github.com/AgafonovVadim/Sentiment-Deep-Learning)  
    A deep learning model to classify review sentiments.  
    - **Tech**: Python, pandas, scikit-learn, tensorflow.  
 
