@@ -23,6 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4A154B&color=229ED9)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=229ED9&logoColor=4A154B)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=229ED9)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeDotJS&color=229ED9)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=229ED9)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot&color=229ED9)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity&color=229ED9)
