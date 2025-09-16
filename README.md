@@ -1,5 +1,6 @@
 ## 🌟 About
-🎓 3rd-year student at ITMO University, studying Information Technologies and Programming.</br>
+🎓 4th-year student at ITMO University, studying Information Technologies and Programming.</br>
+💻 C++ Developer. </br>
 💡 I'm driven by curiosity and innovation, actively exploring cutting-edge technologies in machine learning, software engineering, and DevOps. As a resourceful and adaptable learner, I strive to blend creativity with technical skills to build impactful solutions.</br>
 📈 With a background in multiple programming languages and tools, I embrace every opportunity to challenge myself and learn from the experience.</br>
 
@@ -27,7 +28,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=229ED9)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot&color=229ED9)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity&color=229ED9)
-
 
 ## 📚 Current Projects
 
